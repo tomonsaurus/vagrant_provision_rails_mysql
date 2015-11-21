@@ -1,0 +1,21 @@
+== README
+
+* vagrantでprovisionを使い、以下の環境を構築する。
+
+* centos6
+
+* rbenv
+
+* bundler
+
+* ruby 2.2.3
+
+* rails 4.2.0
+
+* mysql 5.1
+
+*  create database vagrant_test;
+
+
+
+
